@@ -1,0 +1,7 @@
+group: 
+  name: netpioneer.myangularhippo
+  after: hippo-cms
+project: netpioneer.myangularhippo
+module: 
+  name: netpioneer.myangularhippo-repository-data-webfiles
+  after: netpioneer.myangularhippo-repository-data-config

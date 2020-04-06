@@ -1,0 +1,8 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/netpioneer.myangularhippo/hst:pages/news:
+      jcr:primaryType: hst:component
+      hst:referencecomponent: hst:abstractpages/base
+      /main:
+        jcr:primaryType: hst:component
+        hst:template: news-main

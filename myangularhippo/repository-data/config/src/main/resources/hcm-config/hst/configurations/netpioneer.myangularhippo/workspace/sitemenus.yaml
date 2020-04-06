@@ -1,0 +1,18 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/netpioneer.myangularhippo/hst:workspace/hst:sitemenus:
+      jcr:primaryType: hst:sitemenus
+      /main:
+        jcr:primaryType: hst:sitemenu
+        hst:lastmodified: 2019-09-30T09:02:08.680+02:00
+        /home:
+          jcr:primaryType: hst:sitemenuitem
+          hst:referencesitemapitem: root
+        /news:
+          jcr:primaryType: hst:sitemenuitem
+          hst:referencesitemapitem: news
+          hst:repobased: false
+        /contacts:
+          jcr:primaryType: hst:sitemenuitem
+          hst:referencesitemapitem: contact
+          hst:repobased: false

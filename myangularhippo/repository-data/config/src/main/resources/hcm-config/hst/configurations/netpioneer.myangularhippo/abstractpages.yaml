@@ -1,0 +1,4 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/netpioneer.myangularhippo/hst:abstractpages:
+      jcr:primaryType: hst:pages

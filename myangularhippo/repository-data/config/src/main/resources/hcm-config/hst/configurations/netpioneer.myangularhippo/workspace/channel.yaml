@@ -1,0 +1,8 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/netpioneer.myangularhippo/hst:workspace/hst:channel:
+      jcr:primaryType: hst:channel
+      hst:name: My Angular Hippo
+      hst:type: website
+      /hst:channelinfo:
+        jcr:primaryType: hst:channelinfo

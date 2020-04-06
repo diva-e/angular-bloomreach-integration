@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <name>project-settings</name>
+    <beansFolder>site/src/main/java</beansFolder>
+    <cmsModule>cms</cmsModule>
+    <confirmParams>false</confirmParams>
+    <enterprise>false</enterprise>
+    <extraTemplates>true</extraTemplates>
+    <projectNamespace>netpioneer.myangularhippo</projectNamespace>
+    <repositoryDataModule>repository-data</repositoryDataModule>
+    <selectedBeansPackage>com.diva.netpioneer.myangularhippo.beans</selectedBeansPackage>
+    <selectedComponentsPackage>com.diva.netpioneer.myangularhippo.components</selectedComponentsPackage>
+    <selectedProjectPackage>com.diva.netpioneer.myangularhippo</selectedProjectPackage>
+    <selectedRestPackage>com.diva.netpioneer.myangularhippo.rest</selectedRestPackage>
+    <setupDone>true</setupDone>
+    <siteModule>site</siteModule>
+    <templateLanguage>freemarker</templateLanguage>
+    <useSamples>true</useSamples>
+    <webfilesSubModule>webfiles</webfilesSubModule>
+
+    <hstHcmDependenciesAlias>CMS</hstHcmDependenciesAlias>
+    <cmsDependenciesModule>cms</cmsDependenciesModule>
+    <siteComponentsSubModule>site</siteComponentsSubModule>
+    <siteWebappSubModule>site</siteWebappSubModule>
+</project>

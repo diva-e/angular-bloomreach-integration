@@ -1,0 +1,16 @@
+definitions:
+  config:
+    /hst:hst/hst:hosts:
+      jcr:primaryType: hst:virtualhosts
+      /dev-localhost:
+        .meta:residual-child-node-category: content
+        jcr:primaryType: hst:virtualhostgroup
+        hst:defaultport: 8080
+        /localhost:
+          .meta:residual-child-node-category: content
+          jcr:primaryType: hst:virtualhost
+          /hst:root:
+            .meta:residual-child-node-category: content
+            jcr:primaryType: hst:mount
+            hst:homepage: root
+            hst:mountpoint: /hst:hst/hst:sites/netpioneer.myangularhippo

@@ -10,7 +10,7 @@
 
   <name>My Angular Hippo Repository Data Configuration</name>
   <description>My Angular Hippo Repository Data Configuration</description>
-  <artifactId>netpioneer.myangularhippo-repository-data-config</artifactId>
+  <artifactId>myangularhippo-repository-data-config</artifactId>
 
   <build>
     <defaultGoal>install</defaultGoal>

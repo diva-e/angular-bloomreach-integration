@@ -18,13 +18,13 @@
       <type>pom</type>
     </dependency>
     <dependency>
-      <groupId>com.diva</groupId>
-      <artifactId>netpioneer.myangularhippo-repository-data-config</artifactId>
+      <groupId>com.diva-e</groupId>
+      <artifactId>myangularhippo-repository-data-config</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>com.diva</groupId>
-      <artifactId>netpioneer.myangularhippo-repository-data-webfiles</artifactId>
+      <groupId>com.diva-e</groupId>
+      <artifactId>myangularhippo-repository-data-webfiles</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>

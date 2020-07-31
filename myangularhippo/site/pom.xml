@@ -62,8 +62,8 @@
     </dependency>
 
     <dependency>
-      <groupId>com.diva</groupId>
-      <artifactId>netpioneer.myangularhippo-angular</artifactId>
+      <groupId>com.diva-e</groupId>
+      <artifactId>myangularhippo-angular</artifactId>
       <version>${project.version}</version>
       <type>pom</type>
     </dependency>
